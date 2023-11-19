@@ -1,0 +1,199 @@
+[
+ {
+  "          ": "{"
+ },
+ {
+  "          ": "  \"WBUI2\": {"
+ },
+ {
+  "          ": "    \"settings\": {"
+ },
+ {
+  "          ": "        \"OpenButton\": 0"
+ },
+ {
+  "          ": "        \"HideIcon\": false"
+ },
+ {
+  "          ": "        \"HideIconAfter\": 60"
+ },
+ {
+  "          ": "        \"IconURL\": \"https:\/\/i.imgur.com\/6WsPqGs.png\""
+ },
+ {
+  "          ": "        \"DisableIconText\": false"
+ },
+ {
+  "          ": "        \"IconPosition\": 0"
+ },
+ {
+  "          ": "        \"IconTextColor\": 5"
+ },
+ {
+  "          ": "        \"OpenOnStart\": true"
+ },
+ {
+  "          ": "        \"OpenOnStartOnlyNewPlayers\": false"
+ },
+ {
+  "          ": "        \"UpdateInterval\": 12"
+ },
+ {
+  "          ": "      }"
+ },
+ {
+  "          ": "    \"tabs\": ["
+ },
+ {
+  "          ": "      {"
+ },
+ {
+  "          ": "        \"tab4\": {"
+ },
+ {
+  "          ": "          \"layout\": 3"
+ },
+ {
+  "          ": "          \"buttontext\": \"INFO\""
+ },
+ {
+  "          ": "          \"title1\": \"Bienvenue\""
+ },
+ {
+  "          ": "          \"title2\": \"Rates\""
+ },
+ {
+  "          ": "          \"title3\": \"Boutique\""
+ },
+ {
+  "          ": "          \"text1\": \"Bienvenue sur le serveur des Arksomniak\\n\\n\\nIci l'ambiance familiale et conviviale est primordiale \\nNous avons fait de ce serveur",
+  "Column2": " un moment de partage entre tous",
+  "Column3": " \\nMélangeant les meilleurs mods actuels",
+  "Column4": " ainsi qu'un bon équilibre sur les réglages de jeux \\nPpour vous proposer le meilleur. \\nLe but de notre équipe",
+  "Column5": " est de vous faire redécouvrir ARK",
+  "Column6": " \\nAffronté les boss",
+  "Column7": " découvrir les notes et bâtir une communauté soudée. \\nRejoignez notre discord pour avoir toutes les dernières infos",
+  "Column8": " event ",
+  "Column9": " boutique",
+  "Column10": " etc. \\n\\n\\nLe RECENCEMENT est obligatoire via DISCORD pour eviter un WIPE STRUCTURE INTEGRAL\""
+ },
+ null,
+ {
+  "          ": "          \"text2\": \"XP x3 \\nFARM x3 \\nTAM x10 \\nBreed x10 \\nIncub x10 \\ninprint toutes les 2h \\nDIfficulté x10 (max dinos  LVL 300) \\nPOIDS HUMAIN \/DINO x10 \""
+ },
+ null,
+ {
+  "          ": "          \"text3\": \"Pour nous aider et soutenir le projet des arksomniak \\nLes donations sont ouvert et vous offrira un boost pour notre boutique. \\nVos donations seront automatiquement remerciées et reverser dans les serveurs. \\n(augmentation de slots \/ ouverture serveur",
+  "Column2": " prolongement de la durée",
+  "Column3": " mais aussi dans les bots discord). \\nEt tout ce qui est pour le bon fonctionnement de nos serveurs. \\nVos donations même les plus petites sont primordial pour la longévité des serveurs.\""
+ },
+ {
+  "          ": "          \"imageurl\": \"https:\/\/i.imgur.com\/LDKbv6q.png\""
+ },
+ {
+  "          ": "          "
+ },
+ {
+  "          ": "          "
+ },
+ null,
+ {
+  "          ": "      }"
+ },
+ {
+  "          ": "      "
+ },
+ {
+  "          ": "    \"links\": ["
+ },
+ {
+  "          ": "      {"
+ },
+ {
+  "          ": "        \"link1\": {"
+ },
+ {
+  "          ": "          \"text\": \"Discord\""
+ },
+ {
+  "          ": "          \"url\": \"https:\/\/discord.gg\/xZPxpQ9hww\""
+ },
+ null,
+ {
+  "          ": "        }"
+ },
+ {
+  "          ": "      }"
+ },
+ {
+  "          ": "      {"
+ },
+ {
+  "          ": "        \"link2\": {"
+ },
+ {
+  "          ": "          \"text\": \"youtube\""
+ },
+ {
+  "          ": "          \"url\": \"https:\/\/www.youtube.com\/channel\/UCKJi6qkXpwbqvSncToykuTw\""
+ },
+ {
+  "          ": "        }"
+ },
+ {
+  "          ": "      }"
+ },
+ {
+  "          ": "      {"
+ },
+ {
+  "          ": "        \"link3\": {"
+ },
+ {
+  "          ": "          \"text\": \"twitch\""
+ },
+ {
+  "          ": "          \"url\": \"https:\/\/www.twitch.tv\/thusel59\""
+ },
+ {
+  "          ": "        }"
+ },
+ {
+  "          ": "      }"
+ },
+ {
+  "          ": "      {"
+ },
+ {
+  "          ": "        \"link4\": {"
+ },
+ {
+  "          ": "          \"text\": \"Mods\""
+ },
+ {
+  "          ": "          \"url\": \"https:\/\/docs.google.com\/spreadsheets\/d\/1yPnLa3e0RLL8Lnw5itgET7m3tGJWQ8Q0hBFz7PCKHhQ\/edit?usp=sharing\""
+ },
+ {
+  "          ": "        }"
+ },
+ {
+  "          ": "      }"
+ },
+ {
+  "          ": "    ]"
+ },
+ {
+  "          ": "  }"
+ },
+ {
+  "          ": "}"
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "          ": "code d'édition: 5vdYcc7z"
+ }
+]
